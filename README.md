@@ -95,6 +95,7 @@
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1512-number-of-good-pairs) |
@@ -190,6 +191,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
