@@ -117,6 +117,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0912-sort-an-array) |
@@ -323,6 +324,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
