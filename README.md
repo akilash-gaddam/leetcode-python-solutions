@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
@@ -146,6 +147,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
