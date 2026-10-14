@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -214,6 +216,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0035-search-insert-position) |
