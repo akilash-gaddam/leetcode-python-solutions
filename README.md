@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
@@ -81,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0160-intersection-of-two-linked-lists) |
