@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0238-product-of-array-except-self) |
