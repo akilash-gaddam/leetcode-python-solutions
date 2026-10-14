@@ -246,6 +246,7 @@
 | [0268-missing-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
@@ -356,4 +357,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
