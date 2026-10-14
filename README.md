@@ -20,6 +20,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -191,6 +193,7 @@
 | [0344-reverse-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
