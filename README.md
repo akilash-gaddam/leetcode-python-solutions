@@ -8,6 +8,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
@@ -136,4 +139,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
