@@ -1,0 +1,15 @@
+class Solution(object):
+    def shuffle(self, nums, n):
+        n=len(nums)//2
+        num=[]
+        i,j=0,n
+        while True:
+            if(i>=n and j>=len(nums)):
+                False
+            else:
+                num.append(nums[i])
+                i+=1
+                num.append(nums[j])
+                j+=1
+        return num
+        
