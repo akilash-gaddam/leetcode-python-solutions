@@ -143,4 +143,12 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
