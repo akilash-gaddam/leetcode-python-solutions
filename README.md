@@ -10,4 +10,20 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
