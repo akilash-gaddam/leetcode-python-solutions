@@ -20,6 +20,7 @@
 | [0383-ransom-note](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
