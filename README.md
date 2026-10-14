@@ -10,6 +10,7 @@
 | [0125-valid-palindrome](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -167,16 +168,23 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
