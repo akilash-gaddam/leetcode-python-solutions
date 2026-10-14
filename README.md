@@ -26,6 +26,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
@@ -65,6 +66,7 @@
 | [0035-search-insert-position](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0238-product-of-array-except-self) |
