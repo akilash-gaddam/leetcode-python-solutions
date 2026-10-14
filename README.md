@@ -42,12 +42,19 @@
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
