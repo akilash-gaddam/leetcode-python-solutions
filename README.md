@@ -55,6 +55,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
@@ -230,6 +231,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
