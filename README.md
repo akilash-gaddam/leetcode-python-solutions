@@ -36,8 +36,18 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
