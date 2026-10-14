@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -83,4 +85,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
