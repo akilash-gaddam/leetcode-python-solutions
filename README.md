@@ -40,6 +40,7 @@
 | [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
