@@ -74,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0141-linked-list-cycle) |
