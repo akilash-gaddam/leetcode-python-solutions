@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0058-length-of-last-word) |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0141-linked-list-cycle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
