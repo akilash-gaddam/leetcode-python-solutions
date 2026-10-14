@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
