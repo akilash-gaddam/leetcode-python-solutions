@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
