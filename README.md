@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -109,5 +110,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
