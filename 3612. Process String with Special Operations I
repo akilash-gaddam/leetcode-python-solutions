@@ -1,0 +1,24 @@
+class Solution:
+    def processStr(self, s: str) -> str:
+        self.s=s
+        self.result=""
+        for i in s:
+            if i == "*":
+                self.rem(i)
+            elif i == "#":
+                self.dup(i)
+            elif i == "%":
+                self.rev(i)
+            else:
+                self.add(i)
+        return self.result
+    def add(self,i):
+        self.i=i
+        self.result+=self.i
+    def rem(self,i):
+        self.l=len(self.result)
+        self.result=self.result[0:self.l-1]
+    def dup(self,i):
+        self.result+=self.result
+    def rev(self,i):
+        self.result=self.result[::-1]
