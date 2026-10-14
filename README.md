@@ -7,6 +7,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -89,6 +90,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
