@@ -10,6 +10,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0242-valid-anagram) |
@@ -22,6 +23,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
@@ -30,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
@@ -56,6 +59,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
