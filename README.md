@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
