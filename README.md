@@ -37,6 +37,7 @@
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -62,6 +64,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 ## Array
