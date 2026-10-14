@@ -20,6 +20,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -86,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -146,6 +148,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
@@ -164,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0977-squares-of-a-sorted-array) |
