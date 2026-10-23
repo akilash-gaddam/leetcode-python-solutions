@@ -27,6 +27,7 @@
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -285,6 +286,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -393,4 +395,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
