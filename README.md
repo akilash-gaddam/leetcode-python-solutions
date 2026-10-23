@@ -27,6 +27,7 @@
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
@@ -289,6 +290,7 @@
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
+| [1544-make-the-string-great](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
