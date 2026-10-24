@@ -4,14 +4,14 @@ class Solution(object):
         :type prices: List[int]
         :rtype: List[int]
         """
-        arr=[]
+        arr=list(prices)
+        stack=[]
         for i in range(len(prices)):
-            l=len(arr)
-            for j in range(i,len(prices)):
-                if prices[i]>=prices[j] and j > i:
-                    arr.append(prices[i]-prices[j])
-                    break
-            if len(arr) == l:
-                arr.append(prices[i])
+            while stack and prices[stack[-1]]>=prices[i]:
+                idx=stack.pop()
+                arr[idx]=prices[idx]-prices[i]
+
+            stack.append(i)
         return arr
+
         
