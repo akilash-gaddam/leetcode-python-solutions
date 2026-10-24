@@ -37,6 +37,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
@@ -134,6 +135,7 @@
 | [0704-binary-search](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -292,6 +294,7 @@
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1544-make-the-string-great) |
