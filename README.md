@@ -129,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
@@ -165,6 +166,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
@@ -294,6 +296,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -417,5 +420,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
