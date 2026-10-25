@@ -31,6 +31,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -39,6 +40,7 @@
 | [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
@@ -304,6 +306,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
