@@ -64,6 +64,7 @@
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1512-number-of-good-pairs) |
+| [3099-harshad-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
 | ------- |
