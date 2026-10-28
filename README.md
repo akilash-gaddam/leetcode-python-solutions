@@ -140,6 +140,7 @@
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
@@ -174,6 +175,7 @@
 | [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -325,11 +327,13 @@
 | [0203-remove-linked-list-elements](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
@@ -429,4 +433,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
