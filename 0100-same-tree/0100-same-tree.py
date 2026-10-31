@@ -13,7 +13,6 @@ class Solution(object):
         """
         if not p and not q:
             return True
-        if not q or not p or p.val != q.val:
+        elif (not p and q) or (not q and p) or p.val != q.val:
             return False
         return self.isSameTree(p.left,q.left) and self.isSameTree(p.right,q.right)
-        
