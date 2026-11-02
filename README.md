@@ -145,6 +145,7 @@
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -179,6 +180,7 @@
 | [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -406,6 +408,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Merge Sort
 |  |
 | ------- |
