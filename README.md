@@ -32,6 +32,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3174-clear-digits) |
@@ -187,6 +188,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1512-number-of-good-pairs) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2404-most-frequent-even-element) |
 ## Sorting
