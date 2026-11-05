@@ -58,6 +58,7 @@
 | [0066-plus-one](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
@@ -93,6 +95,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
