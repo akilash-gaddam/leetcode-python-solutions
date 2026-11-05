@@ -357,6 +357,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
+| [0700-search-in-a-binary-search-tree](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0257-binary-tree-paths) |
+| [0700-search-in-a-binary-search-tree](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -455,4 +457,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
