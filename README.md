@@ -66,6 +66,7 @@
 | [0342-power-of-four](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1512-number-of-good-pairs) |
 | [3099-harshad-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3099-harshad-number) |
@@ -77,6 +78,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
