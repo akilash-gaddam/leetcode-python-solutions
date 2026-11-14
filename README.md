@@ -81,6 +81,7 @@
 | [0392-is-subsequence](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [1512-number-of-good-pairs](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2404-most-frequent-even-element) |
+| [3693-climbing-stairs-ii](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
