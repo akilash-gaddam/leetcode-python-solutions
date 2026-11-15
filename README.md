@@ -159,6 +159,7 @@
 | [0946-validate-stack-sequences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -196,6 +197,7 @@
 | [0819-most-common-word](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -484,5 +486,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
