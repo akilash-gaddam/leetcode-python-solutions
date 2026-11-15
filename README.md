@@ -170,6 +170,7 @@
 | [2404-most-frequent-even-element](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2404-most-frequent-even-element) |
 | [3693-climbing-stairs-ii](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -488,4 +489,9 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
