@@ -149,6 +149,7 @@
 | [0485-max-consecutive-ones](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0682-baseball-game) |
@@ -356,12 +357,14 @@
 | [0203-remove-linked-list-elements](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 ## Tree
@@ -429,6 +432,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0622-design-circular-queue) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
