@@ -267,6 +267,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -365,6 +366,7 @@
 | [0706-design-hashmap](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akilash-gaddam/leetcode-python-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
